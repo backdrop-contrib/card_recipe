@@ -56,8 +56,8 @@ To reproduce the front page view of cards seen in new installations of
 Backdrop CMS, add the '3 promoted Cards' block to the TOP region of your
 home page layout.
 
-- Go to `Content > Add Content > Card` or `/node/add/card`
-- Create several Card with or without images
+- Go to `Content .. Add Content .. Card` or `/node/add/card`
+- Create several Cards with or without images
 
 Uninstall or Upgrate Options
 ----------------------------
@@ -70,7 +70,7 @@ Issues
 ------
 
 Bugs and Feature requests should be reported in the Issue Queue:
-https://github.com/backdrop-contrib/card-recipe/issues.
+https://github.com/backdrop-contrib/card_recipe/issues.
 
 Please, use the issue queue to tell us how the recipe worked for you and
 to share your ideas on how to improve it for other users. 
