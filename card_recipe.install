@@ -86,9 +86,8 @@
       ),
     ),
   );
+
   field_create_instance($instance);
-
-
     $field_image_dir = 'public://field/image';
     file_prepare_directory($field_image_dir, FILE_CREATE_DIRECTORY);
 
@@ -146,12 +145,7 @@
           'type' => 'card',
         )
       );
-
-      dpm($card);
-
       $card->save();
     }
-
-
-
   }
+  
