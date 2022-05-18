@@ -1,0 +1,1 @@
+<p>A Card can only be seen as part of another page. Place them individually as "Existing content" Blocks, or grouped as in a View.</p><p><a href="https://docs.backdropcms.org/documentation/creating-and-editing-content">Learn more about Cards</a></p>

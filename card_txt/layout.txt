@@ -1,0 +1,1 @@
+<p>Use the home page layout to specifically customize this page. These Cards only appear on this layout.</p><p><a href="https://docs.backdropcms.org/documentation/the-home-page">Learn more about the Home page</a></p>

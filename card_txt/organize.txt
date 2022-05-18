@@ -1,0 +1,1 @@
+<p>Backdrop CMS includes three pre-defined types of content: Pages, Posts, and Cards. Custom content types can also be added.</p><p><a href="https://docs.backdropcms.org/documentation/content-types">Learn more about content types</a></p>
