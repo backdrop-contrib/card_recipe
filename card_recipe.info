@@ -6,5 +6,7 @@ backdrop = 1.x
 
 dependencies[] = system (>=1.20.0)
 
+stylesheets[all][] = css/card.css
+
 
 
