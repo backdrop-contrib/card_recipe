@@ -17,7 +17,6 @@ This particular module creates a Card content type with fields for
 - body
 
 It also comes with
-- a custom image style
 - a view
 - a CSS file
 
