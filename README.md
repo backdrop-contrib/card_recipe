@@ -40,10 +40,7 @@ Installation
 
 - Disabling and uninstalling this module will not delete any of the 
   configuration that this module provides, but will disable the CSS
-  files that came with this module. 
-
-- Either add the testimonial page to your menu OR place the views 
-  testimonial block on any page. 
+  files that came with this module.
 
 Instructions
 ------------
@@ -51,14 +48,17 @@ Instructions
 After enabling the module and experimenting with it a bit. Delete
 the sample content and create your own cards.
 
-To reproduce the front page view of cards seen in new installations of 
-Backdrop CMS, add the '3 promoted Cards' block to the TOP region of your
-home page layout.
-
 - Go to `Content .. Add Content .. Card` or `/node/add/card`
 - Create several Cards with or without images
 
-Uninstall or Upgrate Options
+To reproduce the front page view of cards seen in new installations of 
+Backdrop CMS, add the '3 promoted Cards' block to the TOP region of your
+home page layout, and set 'Block title type' to 'None'.
+
+If you use the default Promoted content block on your home page, you might want
+to adapt the corresponding view to not display items of the Card content type.
+
+Uninstall or Upgrade Options
 ----------------------------
 
 It is not currently possible to uninstall or upgrade this recipe.
